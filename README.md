@@ -1,5 +1,7 @@
 # todo-vue-ex
 
+![demo](/demo/demo_vtodo.gif)
+
 ## Project setup
 ```
 npm install
